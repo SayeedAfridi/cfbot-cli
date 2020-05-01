@@ -1,5 +1,5 @@
 {
-    "name": "cfbot-cli",
+    "name": "cfbot",
     "version": "1.0.0",
     "description": "Bot for Codeforces",
     "bin": "./bin/cfbot.js",

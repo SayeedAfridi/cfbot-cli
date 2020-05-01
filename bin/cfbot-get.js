@@ -5,7 +5,7 @@ program.option('-i, --id <type>', 'get contest by id')
 program.option('-u, --url <type>', 'get contest by url')
 program.action(() => {
     if (program.url) {
-        contest.getContestByUrl(url)
+        contest.getContestByUrl(program.url)
     } else if (program.id) {
         contest.getContestById(program.id)
     } else {

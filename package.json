@@ -1,0 +1,26 @@
+{
+  "name": "cfbot-cli",
+  "version": "1.0.0",
+  "description": "Bot for Codeforces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayeedAfridi/cfbot-cli.git"
+  },
+  "keywords": [
+    "Codeforces",
+    "Codeforces",
+    "Bot",
+    "cfbot",
+    "cfbot-cli"
+  ],
+  "author": "Sayeed Afridi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SayeedAfridi/cfbot-cli/issues"
+  },
+  "homepage": "https://github.com/SayeedAfridi/cfbot-cli#readme"
+}

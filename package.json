@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SayeedAfridi/cfbot-cli/issues"
   },
-  "homepage": "https://github.com/SayeedAfridi/cfbot-cli#readme"
+  "homepage": "https://github.com/SayeedAfridi/cfbot-cli#readme",
+  "dependencies": {
+    "commander": "^5.1.0"
+  }
 }
